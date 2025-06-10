@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Thomas
 
 ## 🚀 Azure Cloud Expert & .NET Developer
 
@@ -6,9 +6,8 @@ I'm a passionate cloud architect and software developer specializing in **Micros
 
 ### 🛠️ Tech Stack
 - **Cloud**: Microsoft Azure (Expert level)
-- **Development**: .NET Core/.NET 5+, C#, ASP.NET Core
-- **Frontend**: Angular, TypeScript, JavaScript
-- **DevOps**: Azure DevOps, CI/CD, Infrastructure as Code
+- **Development**: .NET 9+, C#, ASP.NET Core
+- **Frontend**: Vue, Angular, TypeScript, JavaScript
 - **Architecture**: Microservices, Event-Driven Architecture, Domain-Driven Design
 
 ## 📂 Featured Projects

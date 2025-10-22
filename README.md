@@ -17,6 +17,12 @@ I'm a passionate cloud architect and software developer specializing in **Micros
 
 ## Featured Projects
 
+### Homelab (Kubernetes)
+https://github.com/thomgre/homelab
+
+Homelab bare metal setup with Talos, Kubernetes and GitOps (ArgoCD) for learning and experimenting.
+(Work in progress)
+
 ### Sandbox
 https://github.com/thomgre/sandbox
 

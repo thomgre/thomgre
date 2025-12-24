@@ -1,8 +1,8 @@
-# Thomas Grendel
+# Profile
 
 Cloud (Native) Engineer, working mainly with Azure, Linux, Kubernetes, .NET and Rust.
 
-I'm a passionate cloud architect and software developer specializing in **Microsoft Azure**. With deep expertise in cloud-native solutions, I help organizations leverage Azure's full potential.
+I'm a passionate cloud architect and software developer specializing in **Cloud Native and **Microsoft Azure****. With deep expertise in cloud-native solutions, I help organizations leverage Azure's full potential.
 
 ## Things I've Delivered For Clients
 ✅ Built the foundational event-driven (completely greenfield) microservices platform for a startup: increasing their development velocity, enabling future proof feature growth and enabled increased velocity through CI/CD and DevOps best practices.
